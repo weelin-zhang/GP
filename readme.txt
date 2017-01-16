@@ -1,0 +1,1 @@
+Python3基于requests、heapd、BeautifulSoup爬取东方财富网所有深指和沪指股票信息，财务指标如：浦发银行，总市值，净资产，净利润，市盈率，市净率，毛利率，净利率，ROE] roe:净资产收益率http://quote.eastmoney.com/stocklist.html
